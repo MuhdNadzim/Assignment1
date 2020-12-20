@@ -1,0 +1,26 @@
+run:
+Welcome to GYM
+
+Type of Exercise: 
+1.Weightlifting
+2.Running
+3.Bike Exercise
+
+Name of Coach: 
+1.En. Nadzim
+2.En.Syafiq
+3.En.Daniel
+
+Type of Equipment: 
+1.Dumbbell
+2.Treadmill
+3.Bikemill
+
+What's kind of exercise do you want? Please choose
+1
+You choose number 1. Here the information for this exercise
+Coach Name: En. Nadzim
+Exercise Name: Weightlifting
+Set: 12x - 3set
+Calories: 400 Calories Burned
+BUILD SUCCESSFUL (total time: 2 seconds)
